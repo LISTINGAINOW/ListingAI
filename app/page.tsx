@@ -209,9 +209,9 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h3 className="text-2xl font-bold text-white mb-6">Questions?</h3>
           <p className="text-lg text-gray-400 mb-4">
-            Text us at <strong className="text-white">(555) 123‑4567</strong> or email{' '}
-            <a href="mailto:hello@listingai.com" className="text-blue-400 hover:underline">
-              hello@listingai.com
+            Email us at{' '}
+            <a href="mailto:listing@agentmail.to" className="text-blue-400 hover:underline">
+              listing@agentmail.to
             </a>
           </p>
           <p className="text-gray-500">
